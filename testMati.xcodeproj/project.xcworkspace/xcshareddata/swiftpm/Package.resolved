@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "metamap-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GetMetaMap/metamap-ios-sdk",
+      "state" : {
+        "revision" : "85f5b5bef36d6d1faa6de4cb339fee622e8b5d9d",
+        "version" : "3.16.1"
+      }
+    }
+  ],
+  "version" : 2
+}
